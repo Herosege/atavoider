@@ -391,7 +391,7 @@ NumData
         .byte $EE,$22,$22,$22,$22	;7
         .byte $EE,$AA,$EE,$AA,$EE	;8
         .byte $EE,$AA,$EE,$22,$EE	;9
-		.byte $EE,$AA,$EE,$AA,$AA	;A
+	.byte $EE,$AA,$EE,$AA,$AA	;A
         .byte $CC,$AA,$CC,$AA,$CC	;B
         .byte $EE,$88,$88,$88,$EE	;C
         .byte $CC,$AA,$AA,$AA,$CC	;D
